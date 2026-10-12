@@ -1,0 +1,28 @@
+{
+  "manifest_version": "1.0",
+  "org": "datasette",
+  "repo": "datasette-export-database",
+  "versions": [
+    {
+      "commit": "ca3ba4fa052ee9b74a1c021e3744fa86156bb42e",
+      "parsed_at": "2026-10-12T19:28:26.523199+00:00",
+      "tag": "0.3a2",
+      "filetree": "filetree/ca3ba4fa052ee9b74a1c021e3744fa86156bb42e.nq.gz",
+      "blobs": [
+        "blob/06b0ae393088f2fa3d30c250dbba954dad462640.nq.gz",
+        "blob/28adbceb9b4260cf2aaa4d65b679fe5e0ece29f8.nq.gz",
+        "blob/eb22e74eaaaf0edc4aa2c0f8900a55750d1660f9.nq.gz",
+        "blob/a8a8424459f17f70e6d662f220b8c853c88de20e.nq.gz",
+        "blob/261eeb9e9f8b2b4b0d119366dda99c6fd7d35c64.nq.gz",
+        "blob/0821c7b6e240b0f9397d80795e4b16e546097e9a.nq.gz",
+        "blob/ab7b6637a9e370963e19074cb84d81b71726954b.nq.gz",
+        "blob/29dafe9560c8491b19e61f9b0a1072ff8c7cdb4d.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
