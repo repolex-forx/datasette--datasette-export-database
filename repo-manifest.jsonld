@@ -8,8 +8,9 @@
     {
       "@id": "https://repolex.ai/r/datasette/datasette-export-database/commit/ca3ba4fa052ee9b74a1c021e3744fa86156bb42e",
       "git:hexsha": "ca3ba4fa052ee9b74a1c021e3744fa86156bb42e",
-      "repolex:parseStatus": "ast_complete",
-      "git:tagName": "0.3a2"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "0.3a2",
+      "repolex:parsedAt": "2026-10-12T19:30:41.417381+00:00"
     },
     {
       "@id": "https://repolex.ai/r/datasette/datasette-export-database/commit/fa05960242bfad173d857a6037a12d26456b1744",
